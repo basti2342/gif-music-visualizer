@@ -30,4 +30,4 @@ I had to use pavucontrol (PulseAudio Volume Control `apt-get install pavucontrol
 
 Demo
 ----
-I uploaded some demos to [Youtube](https://www.youtube.com/channel/UC_ndlMTsT9kaZq_8uoC3RiQ).
+I uploaded some demos to [YouTube](https://www.youtube.com/channel/UC_ndlMTsT9kaZq_8uoC3RiQ).
