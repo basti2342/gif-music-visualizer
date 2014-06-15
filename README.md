@@ -4,10 +4,14 @@ Visualization of live audio using gifs. This is based on Scott W Harden's ["Real
 
 Prepare gif
 -----------
+#### You can use dough, watermelon or add a new gif like this:
+
 Use ImageMagick:
-`convert -coalesce image.gif image.png`
+`convert -coalesce image.gif image.jpg`
 
 Create a directory in the `frames` subdirectory and copy the image frames into it.
+
+**If you found a cool gif, please send me a message/pull request. Thanks!**
 
 Dependencies
 ------------
