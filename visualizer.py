@@ -117,8 +117,8 @@ class Visualization:
 		self.SR.close()
 
 if __name__ == "__main__":
-	v = Visualization("frames/dough/teig-%d.png", 0, 66)
-	#v = Visualization("frames/melon/melon-%d.png", 9, 108)
+	#v = Visualization("frames/dough/teig-%d.jpg", 0, 66)
+	v = Visualization("frames/melon/melon-%d.jpg", 9, 108)
 	v.show()
 	pygame.quit()
 
