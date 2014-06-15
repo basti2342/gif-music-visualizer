@@ -4,7 +4,7 @@
 """
 This file is part of Scott W Harden's "Realtime FFT Audio Visualization with Python"
 http://www.swharden.com/blog/2013-05-09-realtime-fft-audio-visualization-with-python/
-Visualizations using matplot have been uncommented as we use gifs instead.
+Visualizations using matplot/pylab have been commented as we use gifs instead.
 """
 
 #import matplotlib
@@ -14,7 +14,7 @@ import scipy
 import struct
 import pyaudio
 import threading
-import pylab
+#import pylab
 import struct
 
 
