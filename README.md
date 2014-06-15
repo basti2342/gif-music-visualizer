@@ -15,11 +15,19 @@ Dependencies
 * scipy
 * numpy
 
-Debian:
-`apt-get install python-pygame python-scipy python-numpy python-pyaudio`
+#### Debian:
+```
+apt-get install python-pygame python-scipy python-numpy python-pyaudio
+```
 
 Usage
 -----
 Play some audio and run visualizer.py. Press F11 to toggle full-screen mode. Use Escape to exit.
 
+> Visualization moves but no audio playing?
+
 I had to use pavucontrol (PulseAudio Volume Control `apt-get install pavucontrol`) to select "Analog Stereo Output" instead of "Analog Stereo Duplex" (Configuration tab). If you want to use an external input device (like a microphone) use "Analog Stereo Input".
+
+Demo
+----
+I uploaded some demos to [Youtube](https://www.youtube.com/channel/UC_ndlMTsT9kaZq_8uoC3RiQ).
