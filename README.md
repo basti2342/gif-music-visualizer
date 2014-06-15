@@ -14,6 +14,7 @@ Dependencies
 * pygame
 * scipy
 * numpy
+* pyaudio
 
 #### Debian:
 ```
