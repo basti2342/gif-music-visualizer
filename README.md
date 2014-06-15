@@ -11,8 +11,15 @@ Create a directory in the `frames` subdirectory and copy the image frames into i
 
 Dependencies
 ------------
-tbd
+* pygame
+* scipy
+* numpy
+
+Debian:
+`apt-get install python-pygame python-scipy python-numpy python-pyaudio`
 
 Usage
 -----
-tbd
+Play some audio and run visualizer.py. Press F11 to toggle full-screen mode. Use Escape to exit.
+
+I had to use pavucontrol (PulseAudio Volume Control `apt-get install pavucontrol`) to select "Analog Stereo Output" instead of "Analog Stereo Duplex" (Configuration tab). If you want to use an external input device (like a microphone) use "Analog Stereo Input".
