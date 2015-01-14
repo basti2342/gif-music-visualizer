@@ -36,3 +36,7 @@ I had to use pavucontrol (PulseAudio Volume Control `apt-get install pavucontrol
 Demo
 ----
 I uploaded some demos to [YouTube](https://www.youtube.com/channel/UC_ndlMTsT9kaZq_8uoC3RiQ).
+
+Links
+-----
+Read the [corresponding blog post](http://randomprojects.de/blog/gif-music-visualization/) for further details.
